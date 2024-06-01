@@ -1,10 +1,7 @@
-# Pysurf
- Pysurf A Python Based Web Browser
-Heres The Packages Needed
-
-pip install PyQt5
-pip install PyQtWebEngine
-pip install adblockparser
-pip install --upgrade pyinstaller
-
-Yippe
+# PySurfoid
+ PySurfoid - Pysurf, for Android!
+ No releases available currently.
+ # Why?
+ Why not? I once tried making PySurfix, which was Pysurf for Linux, but I cancelled that project.
+ # How?
+ Because of how Pysurf is literally ONE .py file, I asked ChatGPT (i'm not kidding) to help me turn it to a .APK for Android. I used Android Studio to build it.
